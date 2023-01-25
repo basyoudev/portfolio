@@ -199,7 +199,7 @@ export default function Home() {
               rel="noopener noreferrer"
             >
               <img
-                className="m-auto w-full border border-purple-500 rounded-xl"
+                className="w-full m-auto border border-purple-500 rounded-xl"
                 src="/Screenshot_1.png"
                 alt="/Screenshot_1.png"
               />
@@ -213,7 +213,7 @@ export default function Home() {
           <p className="mb-3 opacity-50">Bassam, Frontend developer</p>
           <a
             className="navLink"
-            href="https://www.linkedin.com/in/bassam-yousef-403b01256/"
+            href="https://www.linkedin.com/in/bassamyousef990/"
             aria-label="Linkedin"
             target={"_blank"}
             rel="noopener noreferrer"
